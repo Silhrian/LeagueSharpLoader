@@ -2,7 +2,6 @@
     <repo>https://github.com/Areidz/Leaguesharp</repo>
     <repo>https://github.com/DangerousMindLoL/league-sharp</repo>
     <repo>https://github.com/Beaving/LeagueSharp</repo>
-    <repo>https://github.com/OnlyTheBest/LeagueSharp</repo>
     <repo>https://github.com/trees-software/leaguesharp</repo>
     <repo>https://github.com/fueledbyflux/LeagueSharp-Public</repo>
     <repo>https://github.com/blm95/LeagueSharp2</repo>
@@ -12,13 +11,11 @@
     <repo>https://github.com/TheKushStyle/LeagueSharp</repo>
     <repo>https://github.com/SephLeague/LeagueSharp</repo>
     <repo>https://github.com/Lizzaran/LeagueSharp</repo>
-    <repo>https://github.com/MobbyGFX96/LeagueSharp/</repo>
     <repo>https://github.com/RoachxD/LeagueSharp</repo>
     <repo>https://github.com/Chogart/LeagueSharp</repo>
     <repo>https://github.com/diabaths/sharperino</repo>
     <repo>https://github.com/lKk2/LeagueSharp/</repo>
     <repo>https://github.com/ChewyMoon/ChewyMoonScripts</repo>
-    <repo>https://github.com/TeamiV/LeagueSharp</repo>
     <repo>https://github.com/jasteph/LeagueSharp</repo>
     <repo>https://github.com/newchild/LeagueSharp</repo>
     <repo>https://github.com/LXMedia1/UltimateCarry2</repo>
@@ -38,7 +35,7 @@
     <repo>https://github.com/yol0swag/LeagueSharp</repo>
     <repo>https://github.com/LittleRedEye/LeagueSharp</repo>
     <repo>https://github.com/xSalice/LSharp</repo>
-    <repo>https://github.com/Crisdmc/LeagueSharp</repo>
+    <repo>https://github.com/Crisdmc/LeagonueSharp</repo>
     <repo>https://github.com/trelli/LeagueSharp</repo>
     <repo>https://github.com/h3h3/LeagueSharp</repo>
     <repo>https://github.com/trus/L-</repo>
@@ -49,7 +46,7 @@
     <repo>https://github.com/AnimatedHF/Leaguesharp</repo>
     <repo>https://github.com/Irvinee/leaguesharp</repo>
     <repo>https://github.com/GuiltyWolf/LeagueSharp</repo>
-    <repo>https://github.com/Quangcha/LSharp</repo>
+    <repo>https://github.com/MadScripts/LeagueSharp</repo>
     <repo>https://github.com/Hellsing/LeagueSharp</repo>
     <repo>https://github.com/blackyy/LeagueSharp</repo>
     <repo>https://github.com/Dibes/LeagueSharp</repo>
@@ -58,3 +55,5 @@
     <repo>https://github.com/zUsername/LeagueSharp</repo>
     <repo>https://github.com/MadScripts/LeagueSharp</repo>
     <repo>https://github.com/vihura/LeagueSharp</repo>
+    <repo>https://github.com/InjectionDev/LeagueSharp/</repo>
+    <repo>https://github.com/Shypee/LeagueSharp/</repo>
