@@ -35,7 +35,7 @@
     <repo>https://github.com/yol0swag/LeagueSharp</repo>
     <repo>https://github.com/LittleRedEye/LeagueSharp</repo>
     <repo>https://github.com/xSalice/LSharp</repo>
-    <repo>https://github.com/Crisdmc/LeagonueSharp</repo>
+    <repo>https://github.com/Crisdmc/LeagueSharp</repo>
     <repo>https://github.com/trelli/LeagueSharp</repo>
     <repo>https://github.com/h3h3/LeagueSharp</repo>
     <repo>https://github.com/trus/L-</repo>
